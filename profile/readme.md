@@ -1,3 +1,5 @@
+## Vancouver-based SOLIDWORKS APIs Experts (https://bluebyte.biz)
+
 We are writing some awesome tools for SOLIDWORKS PDM.
 
 Check out our free SDK: https://github.com/BlueByteSystemsInc/PDMSDK 
