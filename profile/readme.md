@@ -1,4 +1,4 @@
-## 🌟 Canada-based SOLIDWORKS and PDM Experts
+## Canada-based SOLIDWORKS and PDM Experts
 
 [🔗 Blue Byte Systems Inc.](https://bluebyte.biz) specializes in developing advanced tools for SOLIDWORKS PDM. Our expertise lies in automating and customizing SOLIDWORKS and SOLIDWORKS PDM to enhance productivity and streamline workflows.
 
