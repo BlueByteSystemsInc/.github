@@ -1,10 +1,25 @@
-## 🌟 Vancouver-based SOLIDWORKS APIs Experts
+## 🌟 Canada-based SOLIDWORKS and PDM Experts
 
 [🔗 Blue Byte Systems Inc.](https://bluebyte.biz) specializes in developing advanced tools for SOLIDWORKS PDM. Our expertise lies in automating and customizing SOLIDWORKS and SOLIDWORKS PDM to enhance productivity and streamline workflows.
 
-### 🆓 Free PDM SDK
+### 🆓 PDMSDK
 
 We offer a [free PDM SDK](https://github.com/BlueByteSystemsInc/PDMSDK) that can be accessed on GitHub. This SDK is designed to help developers create custom solutions for SOLIDWORKS PDM with ease. Check out our tutorials and examples to get started quickly.
+
+### 🎓 Courses
+
+ - **[📚 Mastering the SOLIDWORKS API – Automate Your Workflow with VBA](https://bluebyte.biz/courses/mastering-the-solidworks-api-automate-your-workflow-with-vba/)**  
+Learn to automate SOLIDWORKS tasks with VBA! This course covers VBA basics, SOLIDWORKS API, and includes a practical project like a DXF exporter. Lifetime access and a certificate are included. 
+
+- **[📚 SOLIDWORKS PDM API Basics with VBA](https://bluebyte.biz/courses/solidworks-pdm-api-basics-with-vba/)**  
+Master the basics of automating SOLIDWORKS PDM with VBA! This course covers PDM API fundamentals, creating add-ins, and managing workflows. 🎓 Lifetime access and a certificate are included. 
+
+- **[📚 Writing Add-ins with the SOLIDWORKS PDM API](https://bluebyte.biz/courses/solidworks-pdm-api-write-addins/)**  
+Learn to create powerful add-ins for SOLIDWORKS PDM! This course covers advanced PDM API concepts, add-in development, and workflow automation. 🎓 Lifetime access and a certificate are included. 
+
+
+Explore all our products at our [online shop](https://bluebyte.biz/shop). Our offerings include a range of tools and SDKs designed to improve your SOLIDWORKS and SOLIDWORKS PDM experience.
+
 
 ### 🛒 Our Products
 
