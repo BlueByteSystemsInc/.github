@@ -25,9 +25,9 @@ Explore all our products at our [online shop](https://bluebyte.biz/shop). Our of
 
 Explore all our products at our [online shop](https://bluebyte.biz/shop). Our offerings include a range of tools and SDKs designed to improve your SOLIDWORKS and SOLIDWORKS PDM experience.
 
-### 📘 About Blue Byte Systems Inc.
+### 📘 About BLUE BYTE SYSTEMS INC.
 
-Blue Byte Systems Inc. is dedicated to providing innovative solutions for the SOLIDWORKS and SOLIDWORKS PDM ecosystems. Our team of experts is committed to helping businesses automate their processes, improve efficiency, and reduce operational costs. We offer a range of products and services tailored to meet the unique needs of our clients.
+Blue Byte Systems Inc., based in Vancouver, Canada, specializes in delivering cutting-edge solutions for the SOLIDWORKS and SOLIDWORKS PDM ecosystems. Our expert team focuses on automating workflows, enhancing efficiency, and minimizing operational costs for businesses of all sizes. We provide a comprehensive range of services, including custom API solutions, tailored macros, PDM data migration, and online training programs. Our API classes and hands-on training empower clients to maximize the potential of SOLIDWORKS and PDM, ensuring they stay ahead in a competitive landscape. At Blue Byte Systems, innovation and client satisfaction are at the heart of everything we do.
 
 For more information about our products and services, visit [Blue Byte Systems Inc.](https://bluebyte.biz).
 
