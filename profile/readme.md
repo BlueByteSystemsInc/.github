@@ -1,40 +1,120 @@
-## Canada-based SOLIDWORKS and PDM Experts
+## SOLIDWORKS Added-Value Partner
 
-[🔗 Blue Byte Systems Inc.](https://bluebyte.biz) specializes in developing advanced tools for SOLIDWORKS PDM. Our expertise lies in automating and customizing SOLIDWORKS and SOLIDWORKS PDM to enhance productivity and streamline workflows.
+[Blue Byte Systems Inc.](https://bluebyte.biz) is a Vancouver-based software company focused on SOLIDWORKS, SOLIDWORKS PDM, CAD automation, and engineering workflow tools.
 
-### 🆓 PDMSDK
+We help engineering teams automate repetitive design tasks, improve PDM workflows, reduce manual errors, and build custom software around the SOLIDWORKS and SOLIDWORKS PDM APIs.
 
-We offer a [free PDM SDK](https://github.com/BlueByteSystemsInc/PDMSDK) that can be accessed on GitHub. This SDK is designed to help developers create custom solutions for SOLIDWORKS PDM with ease. Check out our tutorials and examples to get started quickly.
+Our work includes:
 
-### 🎓 Courses
+- SOLIDWORKS API development
+- SOLIDWORKS PDM add-ins
+- PDM task add-ins
+- Custom macros and automation tools
+- PDM data migration support
+- Engineering workflow automation
+- API training and developer enablement
+- Integration with ERP, PLM, and business systems
 
- - **[📚 Mastering the SOLIDWORKS API – Automate Your Workflow with VBA](https://bluebyte.biz/courses/mastering-the-solidworks-api-automate-your-workflow-with-vba/)**  
-Learn to automate SOLIDWORKS tasks with VBA! This course covers VBA basics, SOLIDWORKS API, and includes a practical project like a DXF exporter. Lifetime access and a certificate are included. 
+## Open-Source Tools
 
-- **[📚 SOLIDWORKS PDM API Basics with VBA](https://bluebyte.biz/courses/solidworks-pdm-api-basics-with-vba/)**  
-Master the basics of automating SOLIDWORKS PDM with VBA! This course covers PDM API fundamentals, creating add-ins, and managing workflows. 🎓 Lifetime access and a certificate are included. 
+### PDMSDK
 
-- **[📚 Writing Add-ins with the SOLIDWORKS PDM API](https://bluebyte.biz/courses/solidworks-pdm-api-write-addins/)**  
-Learn to create powerful add-ins for SOLIDWORKS PDM! This course covers advanced PDM API concepts, add-in development, and workflow automation. 🎓 Lifetime access and a certificate are included. 
+We maintain a free [SOLIDWORKS PDM SDK](https://github.com/BlueByteSystemsInc/PDMSDK) on GitHub.
+
+PDMSDK helps developers build custom SOLIDWORKS PDM applications and add-ins faster by providing reusable helpers, examples, and development patterns around the SOLIDWORKS PDM Professional API.
+
+It is designed for developers who want to:
+
+- Build custom PDM add-ins
+- Learn the SOLIDWORKS PDM API
+- Automate file, folder, variable, and workflow operations
+- Reduce boilerplate code in PDM API projects
+- Follow cleaner patterns when working with PDM vault objects
 
 
-Explore all our products at our [online shop](https://bluebyte.biz/shop). Our offerings include a range of tools and SDKs designed to improve your SOLIDWORKS and SOLIDWORKS PDM experience.
+## Products
+
+### PDMPublisher
+
+PDMPublisher is a professional publishing automation tool for SOLIDWORKS and SOLIDWORKS PDM.
+
+It helps companies automatically generate engineering deliverables such as PDFs, DXFs, DWGs, STEP files, IGES files, Parasolid files, eDrawings files, and other output formats.
+
+PDMPublisher can be used to automate:
+
+- Drawing PDF exports
+- Sheet metal flat pattern DXF exports
+- STEP, IGES, and Parasolid exports
+- Batch publishing from SOLIDWORKS PDM
+- Workflow-triggered publishing
+- Watermarked PDFs
+- Merged PDF packages
+- Export naming rules
+- Conditional publishing based on PDM variables
+
+Learn more at [PDMPublisher.com](https://pdmpublisher.com).
+
+### PDMShell
+
+PDMShell is a command-line automation tool for SOLIDWORKS PDM.
+
+It is designed for administrators, developers, and migration teams who need to perform large-scale PDM operations from scripts, CSV files, or automated processes.
+
+PDMShell can help with:
+
+- Searching the vault
+- Updating variables
+- Checking files in and out
+- Moving and adding files
+- Running batch operations
+- Supporting data migration projects
+- Automating repetitive PDM administration tasks
+
+Learn more at [PDMShell.com](https://pdmshell.com).
 
 
-### 🛒 Our Products
+## [Training](https://bluebyte.biz/courses-2)
 
-Explore all our products at our [online shop](https://bluebyte.biz/shop). Our offerings include a range of tools and SDKs designed to improve your SOLIDWORKS and SOLIDWORKS PDM experience.
 
-### 📘 About BLUE BYTE SYSTEMS INC.
 
-Blue Byte Systems Inc., based in Vancouver, Canada, specializes in delivering cutting-edge solutions for the SOLIDWORKS and SOLIDWORKS PDM ecosystems. Our expert team focuses on automating workflows, enhancing efficiency, and minimizing operational costs for businesses of all sizes. We provide a comprehensive range of services, including custom API solutions, tailored macros, PDM data migration, and online training programs. Our API classes and hands-on training empower clients to maximize the potential of SOLIDWORKS and PDM, ensuring they stay ahead in a competitive landscape. At Blue Byte Systems, innovation and client satisfaction are at the heart of everything we do.
+## Services
 
-For more information about our products and services, visit [Blue Byte Systems Inc.](https://bluebyte.biz).
+Blue Byte Systems Inc. provides professional services for companies using SOLIDWORKS and SOLIDWORKS PDM.
 
-### 📚 Resources
+Our services include:
 
-- **PDMSDK GitHub Repository**: [PDMSDK](https://github.com/BlueByteSystemsInc/PDMSDK)
-- **Documentation and Tutorials**: Access comprehensive documentation and step-by-step tutorials to help you get the most out of our SDKs.
-- **YouTube Channel**: Watch our tutorial videos on our [YouTube channel](https://www.youtube.com/channel/UC1zN9RU0uWQv2ELHHnG-XrA) to learn more about using our SDKs effectively.
+- Custom SOLIDWORKS add-in development
+- Custom SOLIDWORKS PDM add-in development
+- PDM task add-in development
+- VBA and C# macro development
+- PDM workflow automation
+- PDM data migration planning and support
+- Document Manager API automation
+- ERP and PLM integration support
+- Batch processing tools for engineering data
+- API training for internal development teams
 
-For any inquiries or support, feel free to contact us through our [website](https://bluebyte.biz/contact).
+
+## About Blue Byte Systems Inc.
+
+Blue Byte Systems Inc. is based in Vancouver, Canada and specializes in software development for the SOLIDWORKS and SOLIDWORKS PDM ecosystem.
+
+We work with engineering teams, manufacturers, resellers, and technology partners to build reliable automation tools that reduce manual work and improve engineering productivity.
+
+Our team has deep experience with the SOLIDWORKS API, SOLIDWORKS PDM Professional API, Document Manager API, .NET development, COM automation, and enterprise engineering workflows.
+
+Whether you need a custom macro, a PDM add-in, a publishing automation tool, a migration utility, or API training for your team, Blue Byte Systems can help design and build a solution around your process.
+
+
+## Resources
+
+- [Blue Byte Systems Inc.](https://bluebyte.biz)
+- [Online Shop](https://bluebyte.biz/shop)
+- [PDMSDK GitHub Repository](https://github.com/BlueByteSystemsInc/PDMSDK)
+- [Blue Byte Blog](https://bluebyte.biz/solidworks-and-pdm-engineering-blogspots/)
+- [YouTube Channel](https://www.youtube.com/channel/UC1zN9RU0uWQv2ELHHnG-XrA)
+- [CADOverflow](https://cadoverflow.com)
+- [Contact Blue Byte Systems](https://bluebyte.biz/contact)
+
+
+For questions about SOLIDWORKS API development, SOLIDWORKS PDM automation, custom engineering software, or PDM data migration, contact us through the [Blue Byte Systems website](https://bluebyte.biz/contact).
